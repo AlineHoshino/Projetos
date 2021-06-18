@@ -1,0 +1,54 @@
+#meme-image-container {
+  margin-top: 10px;
+  width: 400px;
+  height: 400px;
+  background-color: white;
+  border: 1px solid black;
+  position: relative;
+}
+
+#meme-image {
+  width: 400px;
+  height: 400px;
+}
+
+#meme-text {
+  text-shadow: 5px 5px 5px black;
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  top: 80%;
+
+}
+
+#fire {
+  background-color: red;
+}
+
+#water {
+  background-color: blue;
+}
+
+#earth {
+  background-color: green;
+}
+
+.examples {
+  width: 80px;
+  height: 90px;
+}
+
+body {
+  background-image: url('imgs/fundo.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+p {
+  color: rgb(15 , 15 , 15);
+  font-weight: 600;
+  border: 1px solid purple;
+  width: fit-content;
+  background-color: rosybrown;
+}
