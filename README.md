@@ -8,4 +8,4 @@ Projetos desenvolvidos na Trybe:
 
 [Meme generator](https://alinehoshino.github.io/Projetos/memegenerator) 🤣 Um projeto que podemos colocar frases nas imagens. Mudar a borda da imagem. Criar memes do zero.
 
-[Movie Cards Library](https://alinehoshino.github.io/Projetos/movie-card-library) Primeiro projeto feito em react, que mostra filmes com classificação
+[Movie Cards Library](https://alinehoshino.github.io/Projetos/movie-card-library) Primeiro projeto feito em react, que mostra filmes com classificação.
